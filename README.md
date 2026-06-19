@@ -258,20 +258,47 @@ nano /etc/pam.d/gdm-password
 
 systemctl restart gdm3
 ```
+🤝 Need Help?
+
+If you followed all the steps in this guide and are still facing the issue, feel free to reach out.
+
+👨‍💻 About Me
+👯 Open to collaborating on development and security-related projects.
+
+💬 Ask me about:
+
+Java
+HTML
+CSS
+JavaScript
+React.js
+Web Development
+Cyber Security
+Bug Bounty Hunting
+
+📫 Contact:
+reshavkumar9837@gmail.com
+
+🐞 Reporting an Issue
+
+When contacting me, please include:
+
+Operating System and Version
+Exact Error Message
+Steps to Reproduce the Issue
+Relevant Logs or Screenshots
+Commands Executed Before the Error Occurred
+
+This helps me understand the issue and provide a faster solution.
+
+⭐ Support the Repository
+
+If this solution helped you, please consider:
+
+Starring ⭐ the repository
+Sharing it with others
+Contributing your own solutions and fixes
+
+Together we can build a valuable collection of real-world errors and solutions for developers, security researchers, and learners.
 
 ---
-
-## Tags
-
-```text
-kali-linux
-gdm3
-root-login
-linux
-pam
-authentication
-password-authentication-did-not-work
-root-user
-troubleshooting
-vmware
-```

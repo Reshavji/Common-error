@@ -258,47 +258,43 @@ nano /etc/pam.d/gdm-password
 
 systemctl restart gdm3
 ```
-🤝 Need Help?
+## 🤝 Need Help?
 
-If you followed all the steps in this guide and are still facing the issue, feel free to reach out.
+If you've followed all the steps in this guide and are still experiencing the issue, feel free to contact me.
 
-👨‍💻 About Me
-👯 Open to collaborating on development and security-related projects.
+📧 **Email:** [reshavkumar9837@gmail.com](mailto:reshavkumar9837@gmail.com)
 
-💬 Ask me about:
+---
 
-Java
-HTML
-CSS
-JavaScript
-React.js
-Web Development
-Cyber Security
-Bug Bounty Hunting
+## 🐞 Reporting an Issue
 
-📫 Contact:
-reshavkumar9837@gmail.com
+To help diagnose the problem quickly, please include the following information:
 
-🐞 Reporting an Issue
+* Operating System and Version
+* Exact Error Message
+* Steps to Reproduce the Issue
+* Relevant Logs or Screenshots
+* Commands Executed Before the Error Occurred
+* Expected Behavior vs Actual Behavior
 
-When contacting me, please include:
+Providing these details will help identify the root cause and provide a more accurate solution.
 
-Operating System and Version
-Exact Error Message
-Steps to Reproduce the Issue
-Relevant Logs or Screenshots
-Commands Executed Before the Error Occurred
+---
 
-This helps me understand the issue and provide a faster solution.
+## ⭐ Found This Helpful?
 
-⭐ Support the Repository
+If this solution resolved your issue, consider:
 
-If this solution helped you, please consider:
+* ⭐ Starring the repository
+* 🔄 Sharing it with others
+* 📝 Opening an issue for improvements
+* 🤝 Contributing additional fixes or alternative solutions
 
-Starring ⭐ the repository
-Sharing it with others
-Contributing your own solutions and fixes
+Community contributions help make this repository a valuable resource for developers, security researchers, and learners facing similar problems.
 
-Together we can build a valuable collection of real-world errors and solutions for developers, security researchers, and learners.
+---
+
+> ⚠️ Always review commands and configuration changes before applying them to production systems.
+
 
 ---
